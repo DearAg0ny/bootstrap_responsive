@@ -64,13 +64,17 @@ padding : 20px 40px 100px 40px;
 .main, .main1 {
 max-width : 1560px;
 }
+}
 .special {
 padding : 15px;
+font-size: 2em;
+}
+.col-sm-12{
+	background-color: #eee;
 }
 article {
 background-color : #eee;
 height : 220px;
-}
 }
 @media (max-width: 600px) {
 article {
@@ -209,6 +213,3 @@ padding-bottom : 0 !important ;
 div.col-l-2.col-md-2.mb-md-0{
 	padding-bottom: 20px;
 }
-
-
-
