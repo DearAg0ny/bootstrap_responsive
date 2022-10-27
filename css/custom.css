@@ -75,6 +75,7 @@ height : 220px;
 @media (max-width: 600px) {
 article {
 height : 480px;
+background-color: #eee;
 }
 }
 @media (min-width: 820px) {
