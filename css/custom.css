@@ -69,8 +69,13 @@ max-width : 1560px;
 padding : 15px;
 font-size: 2em;
 }
+@media (max-width: 600px){
+.special{
+padding: 15px;
+}
+}
 .col-sm-12{
-	background-color: #eee;
+background-color: #eee;
 }
 article {
 background-color : #eee;
